@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Programmering Eksamensprojekt (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Programmering Eksamensprojekt (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
