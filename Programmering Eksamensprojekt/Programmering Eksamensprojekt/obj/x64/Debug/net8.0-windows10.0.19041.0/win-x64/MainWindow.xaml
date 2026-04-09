@@ -10,11 +10,25 @@
     Title="Programmering Eksamensprojekt">
 
     <Window.SystemBackdrop>
-        <MicaBackdrop />
+        <MicaBackdrop Kind="Base"/>
     </Window.SystemBackdrop>
 
     <Grid>
+        <Grid.RowDefinitions>
+            <!-- Title Bar -->
+            <RowDefinition Height="Auto" />
+            <!-- App Content -->
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TitleBar x:ConnectionId='2' x:Name="AppTitleBar"
+              Title="WinUI Notes">
+            <TitleBar.IconSource>
+                <FontIconSource Glyph="&#xF4AA;"/>
+            </TitleBar.IconSource>
+        </TitleBar>
 
+        <!-- App content -->
+        <Frame x:ConnectionId='3' x:Name="rootFrame" Grid.Row="1" SourcePageType="local:NotePage"/>
     </Grid>
 </Window>
 

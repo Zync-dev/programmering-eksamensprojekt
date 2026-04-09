@@ -26,6 +26,13 @@ namespace Programmering_Eksamensprojekt
         public MainWindow()
         {
             InitializeComponent();
+
+            // ↓ Add this. ↓
+            // Hide the default system title bar.
+            ExtendsContentIntoTitleBar = true;
+            // Replace system title bar with the WinUI TitleBar.
+            SetTitleBar(AppTitleBar);
+            // ↑ Add this. ↑
         }
     }
 }

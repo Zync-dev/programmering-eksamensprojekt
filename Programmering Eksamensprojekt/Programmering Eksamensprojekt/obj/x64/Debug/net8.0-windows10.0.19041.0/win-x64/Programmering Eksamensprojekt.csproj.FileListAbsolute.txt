@@ -265,3 +265,9 @@ C:\Users\Lukas\Documents\GitHub\programmering-eksamensprojekt\Programmering Eksa
 C:\Users\Lukas\Documents\GitHub\programmering-eksamensprojekt\Programmering Eksamensprojekt\Programmering Eksamensprojekt\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Lukas\Documents\GitHub\programmering-eksamensprojekt\Programmering Eksamensprojekt\Programmering Eksamensprojekt\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\ProjectArchitectures.txt
 C:\Users\Lukas\Documents\GitHub\programmering-eksamensprojekt\Programmering Eksamensprojekt\Programmering Eksamensprojekt\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_638789222360000000.json
+C:\Users\Lukas\Documents\GitHub\programmering-eksamensprojekt\Programmering Eksamensprojekt\Programmering Eksamensprojekt\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Programmering Eksamensprojekt.sourcelink.json
+C:\Users\Lukas\Documents\GitHub\programmering-eksamensprojekt\Programmering Eksamensprojekt\Programmering Eksamensprojekt\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\NotePage.xbf
+C:\Users\Lukas\Documents\GitHub\programmering-eksamensprojekt\Programmering Eksamensprojekt\Programmering Eksamensprojekt\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\NotePage.g.i.cs
+C:\Users\Lukas\Documents\GitHub\programmering-eksamensprojekt\Programmering Eksamensprojekt\Programmering Eksamensprojekt\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\NotePage.g.cs
+C:\Users\Lukas\Documents\GitHub\programmering-eksamensprojekt\Programmering Eksamensprojekt\Programmering Eksamensprojekt\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\NotePage.xaml
+C:\Users\Lukas\Documents\GitHub\programmering-eksamensprojekt\Programmering Eksamensprojekt\Programmering Eksamensprojekt\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\NotePage.xbf
